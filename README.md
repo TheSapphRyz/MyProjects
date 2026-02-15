@@ -1,7 +1,7 @@
 # MyProjects
 
 ## Zipcord thread
-Zipcord **[frozen]**
+Zipcord **[is ending]**
 
 Zipcord Server **[frozen]**
 
@@ -11,7 +11,7 @@ Zipcord Mobile **[frozen]**
 
 S-maps **[done and frozen]**
 
-S-game **[in process]**
+S-game **[frozen]**
 
 S-engine **[not started]**
 
